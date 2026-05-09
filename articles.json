@@ -1,11 +1,11 @@
 {
   "donors": [
     {
-      "id": "1",
+     "id": "1",
       "name": "Andi Pratama",
       "bloodType": "O+",
       "distance": "1.2 km",
-      "location": "RSUD Abdul Moeloek",
+      "location": "Metro, Lampung",
       "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Andi"
     },
     {
