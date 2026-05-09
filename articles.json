@@ -1,14 +1,22 @@
-[
-  {
-    "id": 1,
-    "title": "Manfaat Donor Darah",
-    "content": "Donor darah membantu kesehatan tubuh",
-    "image": "https://picsum.photos/400"
-  },
-  {
-    "id": 2,
-    "title": "Syarat Donor",
-    "content": "Minimal umur 17 tahun",
-    "image": "https://picsum.photos/401"
-  }
-]
+{
+  "donors": [
+    {
+      "id": "1",
+      "name": "Andi Pratama",
+      "bloodType": "O+",
+      "distance": "1.2 km",
+      "location": "RSUD Abdul Moeloek",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Andi"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "Manfaat Donor Darah bagi Kesehatan Tubuh",
+      "description": "Donor darah tidak hanya membantu menyelamatkan nyawa orang lain, tetapi juga...",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Health",
+      "category": "Edukasi Donor",
+      "time": "5 menit baca"
+    }
+  ]
+}
