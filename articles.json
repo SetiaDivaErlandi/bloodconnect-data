@@ -7,16 +7,129 @@
       "distance": "1.2 km",
       "location": "RSUD Abdul Moeloek",
       "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Andi"
+    },
+    {
+      "id": "2",
+      "name": "Budi Santoso",
+      "bloodType": "A+",
+      "distance": "2.5 km",
+      "location": "RS Graha Husada",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Budi"
+    },
+    {
+      "id": "3",
+      "name": "Citra Lestari",
+      "bloodType": "B+",
+      "distance": "3.1 km",
+      "location": "RS Imanuel",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Citra"
+    },
+    {
+      "id": "4",
+      "name": "Dewi Anggraini",
+      "bloodType": "AB+",
+      "distance": "4.8 km",
+      "location": "RS Bumi Waras",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Dewi"
+    },
+    {
+      "id": "5",
+      "name": "Eko Prasetyo",
+      "bloodType": "O-",
+      "distance": "1.9 km",
+      "location": "RS Advent",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Eko"
+    },
+    {
+      "id": "6",
+      "name": "Fajar Hidayat",
+      "bloodType": "A-",
+      "distance": "5.2 km",
+      "location": "RS Urip Sumoharjo",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Fajar"
+    },
+    {
+      "id": "7",
+      "name": "Gina Maharani",
+      "bloodType": "B-",
+      "distance": "2.7 km",
+      "location": "RS Pertamina",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Gina"
+    },
+    {
+      "id": "8",
+      "name": "Hendra Wijaya",
+      "bloodType": "AB-",
+      "distance": "6.3 km",
+      "location": "RS Bhayangkara",
+      "imageUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Hendra"
     }
   ],
+
   "articles": [
     {
       "id": 1,
       "title": "Manfaat Donor Darah bagi Kesehatan Tubuh",
-      "description": "Donor darah tidak hanya membantu menyelamatkan nyawa orang lain, tetapi juga...",
+      "description": "Donor darah tidak hanya membantu menyelamatkan nyawa orang lain, tetapi juga menjaga kesehatan jantung dan meningkatkan produksi sel darah baru.",
       "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Health",
       "category": "Edukasi Donor",
       "time": "5 menit baca"
+    },
+    {
+      "id": 2,
+      "title": "Syarat dan Ketentuan Donor Darah",
+      "description": "Sebelum donor darah, pastikan Anda memenuhi syarat seperti usia, berat badan, dan kondisi kesehatan yang baik.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Rules",
+      "category": "Panduan",
+      "time": "4 menit baca"
+    },
+    {
+      "id": 3,
+      "title": "Mitos dan Fakta Tentang Donor Darah",
+      "description": "Banyak mitos yang beredar tentang donor darah. Yuk kenali fakta sebenarnya agar tidak ragu untuk berdonor.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Myth",
+      "category": "Edukasi Donor",
+      "time": "6 menit baca"
+    },
+    {
+      "id": 4,
+      "title": "Persiapan Sebelum Donor Darah",
+      "description": "Konsumsi makanan sehat, cukup tidur, dan minum air putih sebelum donor darah sangat disarankan.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Prepare",
+      "category": "Tips",
+      "time": "3 menit baca"
+    },
+    {
+      "id": 5,
+      "title": "Apa yang Terjadi Setelah Donor Darah?",
+      "description": "Tubuh akan segera mengganti darah yang didonorkan. Ketahui proses pemulihannya di sini.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Recovery",
+      "category": "Kesehatan",
+      "time": "5 menit baca"
+    },
+    {
+      "id": 6,
+      "title": "Jenis Golongan Darah dan Kecocokannya",
+      "description": "Setiap golongan darah memiliki kecocokan berbeda dalam transfusi. Pelajari siapa donor universal dan penerima universal.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=BloodType",
+      "category": "Pengetahuan",
+      "time": "7 menit baca"
+    },
+    {
+      "id": 7,
+      "title": "Seberapa Sering Kita Bisa Donor Darah?",
+      "description": "Ketahui jarak waktu aman untuk donor darah agar tetap sehat dan bisa terus membantu sesama.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=Schedule",
+      "category": "Panduan",
+      "time": "4 menit baca"
+    },
+    {
+      "id": 8,
+      "title": "Peran Donor Darah dalam Menyelamatkan Nyawa",
+      "description": "Setetes darah Anda bisa menyelamatkan hingga tiga nyawa. Ketahui dampak besarnya di dunia medis.",
+      "imageUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=SaveLife",
+      "category": "Inspirasi",
+      "time": "6 menit baca"
     }
   ]
 }
